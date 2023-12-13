@@ -24,6 +24,8 @@ Mic Visualizer is a simple audio visualizer tool written in Python using PySide6
 
 3. Click "Choose Color" to customize the visualizer color.
 
+4. Your done! It will automatically use your computers default microphone.
+
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
