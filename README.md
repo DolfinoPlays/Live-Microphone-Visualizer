@@ -12,7 +12,7 @@ Mic Visualizer is a simple audio visualizer tool written in Python using PySide6
 
 ### Installation
 
-1. Download the latest release from the [Releases](https://github.com/your-username/mic-visualizer/releases) page.
+1. Download the latest release from the [Releases](https://github.com/DolfinoPlays/Live-Microphone-Visualizer/releases) page.
 
 2. Extract the contents of the downloaded ZIP file.
 
